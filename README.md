@@ -1,5 +1,5 @@
 # cisco-packet-tracer-multi-office-routing
-Implementation of a dual-office network using RIPv2 dynamic routing and Cisco CLI configuration.
+A dual-office network implementation featuring RIPv2 dynamic routing, IPv4 subnetting (/24 & /30), and Cisco CLI configuration. Includes a comprehensive technical report and end-to-end connectivity verification.
 
 # Multi-Office Network Connectivity Project
 
